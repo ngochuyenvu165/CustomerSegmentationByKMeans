@@ -1,7 +1,7 @@
 # Customer Segmentation Using K-Means Based on RFM Model
 ![image](https://github.com/user-attachments/assets/ccdd5c0f-2585-4d19-9875-f7c5f072ac9d)
 
-This project provides a step-by-step guide on applying the K-Means clustering algorithm and the RFM (Recency, Frequency, Monetary) model to segment customers and identify their behaviors. The project includes code examples in Python, using popular libraries like Pandas, NumPy, Scikit-learn, and Plotly
+This project provides a step-by-step guide on applying the K-Means clustering algorithm and the RFM (Recency, Frequency, Monetary) model to segment customers and identify their behaviors. The project includes code examples in Python, using popular libraries like Pandas, NumPy, Scikit-learn, KneeLocator, and Plotly
 
 ![image](https://github.com/user-attachments/assets/5b4208f1-6ac6-470c-84e4-93cd4798fbed)
 
