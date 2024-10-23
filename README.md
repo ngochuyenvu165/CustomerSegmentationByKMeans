@@ -36,8 +36,11 @@ By using the RFM feature, we use the K-Means algorithm to perform customer segme
 3. High Potential NewComers (Question)
 4. At-Risk Churners (Dog): 
 
-![image](https://github.com/user-attachments/assets/3dd630a8-2290-4e02-a7cd-42743e337436)
+![image](https://github.com/user-attachments/assets/dc8ff0e1-8945-4d5e-81ca-a4d05e0409ba)
 
-## Our Target
+## Outliers Analysis
+Although 5% of outlier customers have a much higher value than the typical customer, it's important not to overlook them and miss out on understanding high-value customer behavior.
+
+## Marketing Target
 ![image](https://github.com/user-attachments/assets/f22d297f-67aa-43f5-a8d8-ac525f3c930d)
 
