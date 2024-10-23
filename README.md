@@ -27,11 +27,11 @@ Customer behaviors are strongly influenced by seasonal factors, and the sales am
 ## K-Means:
 By using the RFM feature, we use the K-Means algorithm to perform customer segmentation
 
-## Cluster Distribution
-![image](https://github.com/user-attachments/assets/da7c0212-330d-48ce-8c64-f026903e502e)
-
 ## Results from K-Means:
 ![image](https://github.com/user-attachments/assets/b22392db-f5c1-459a-ac6e-9c30035e8154)
+
+## Cluster Distribution
+![image](https://github.com/user-attachments/assets/da7c0212-330d-48ce-8c64-f026903e502e)
 
 ## Segment Description: Name of each cluster and Interpret as BCG Matrix
 1. Steady Average Spenders (Cow)
