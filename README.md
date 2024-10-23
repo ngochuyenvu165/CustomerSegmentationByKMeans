@@ -31,14 +31,13 @@ By using the RFM feature, we use the K-Means algorithm to perform customer segme
 ![image](https://github.com/user-attachments/assets/b22392db-f5c1-459a-ac6e-9c30035e8154)
 
 ## Segment Description: Name of each cluster and Interpret as BCG Matrix
-### Steady Average Spenders (Cow): 
-Moderate frequency, steady but not high monetary value. Flexibility in technology-based and traditional ordering & channels.
+1. Steady Average Spenders (Cow)
+2. Loyal High Spenders (Star)
+3. High Potential NewComers (Question)
+4. At-Risk Churners (Dog): 
 
-### Loyal High Spenders (Star): 
-Very high frequency and monetary, low recency. Flexibility in technology-based and traditional ordering & channels.
+![image](https://github.com/user-attachments/assets/3dd630a8-2290-4e02-a7cd-42743e337436)
 
-### High Potential NewComers (Question): 
-Low frequency, medium recency, moderate spending. Traditional ordering preference.
+## Our Target
+![image](https://github.com/user-attachments/assets/f22d297f-67aa-43f5-a8d8-ac525f3c930d)
 
-### At-Risk Churners (Dog): 
-Low frequency, high recency, high spending in the past. Traditional ordering preference.
